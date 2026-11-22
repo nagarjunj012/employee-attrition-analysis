@@ -1,0 +1,19 @@
+employee_id,department,job_role,years_at_company,attrition
+E001,Sales,Sales Executive,1,Yes
+E002,Sales,Sales Executive,3,No
+E003,Sales,Sales Manager,7,No
+E004,Sales,Sales Executive,2,Yes
+E005,Technology,Software Engineer,1,Yes
+E006,Technology,Software Engineer,4,No
+E007,Technology,Data Analyst,2,No
+E008,Technology,Software Engineer,8,No
+E009,Technology,Data Analyst,1,Yes
+E010,Finance,Accountant,2,No
+E011,Finance,Accountant,5,No
+E012,Finance,Finance Manager,9,No
+E013,Finance,Accountant,1,Yes
+E014,Human Resources,HR Specialist,3,No
+E015,Human Resources,HR Specialist,1,Yes
+E016,Human Resources,HR Manager,8,No
+E017,Operations,Operations Analyst,2,No
+E018,Operations,Operations Analyst,6,No
